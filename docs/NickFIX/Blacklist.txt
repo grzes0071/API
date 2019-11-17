@@ -1,7 +1,5 @@
 keydrop.pl
 |
-W;(NIE)W
-|
 chuj
 |
 chuja
