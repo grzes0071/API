@@ -1,6 +1,4 @@
-keydrop.pl
-|
-W;(NIE)W
+﻿keydrop.pl
 |
 chuj
 |
