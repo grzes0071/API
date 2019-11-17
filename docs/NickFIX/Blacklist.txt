@@ -1,4 +1,4 @@
-﻿keydrop.pl
+keydrop.pl
 |
 chuj
 |
