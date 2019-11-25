@@ -1,4 +1,4 @@
 <first>
 {
-image-url: https://cdn.discordapp.com/attachments/619602414508441620/619796069701648414/2.png;
+image-url: https://images-ext-1.discordapp.net/external/uOxmBBiUo4hwL8JItVCFZ5B92C_wJU6m6Fl1Fw9PKe8/https/cdn.discordapp.com/attachments/426143753783345163/645325190464798720/mistaken_informacje.png;
 }
