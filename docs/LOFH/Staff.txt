@@ -12,6 +12,7 @@ WARNING?true?76561198955011520?SOME IP?No taki troche toxik, grozi degradem jak 
 WARNING?true?76561198380765751?SOME IP?Ten typ nie myśli, pinguje od tako, Daj ktoś mu długie wakacje jak coś :) (WW)?Good Lock?Wydział Wewnętrzny;
 WARNING?true?76561198377858844?SOME IP?Notoryczne Wydawanie denerwujących dźwięków, puszczanie muzyki?MaksPlay (O5-XXV)?Wydział Wewnętrzny;
 WARNING?true?76561198203059096?SOME IP?Pyskowanie administracji, wulgarny nick?Moje jajca - Twoja broda?Od Angel (O5-X);
+WARNING?true?76561199002464110?SOME IP?Mozliwy cheat, wchodzil w niedostepne miejsca?iami SCP Bugger?Od quiddiego;
 
 
 
