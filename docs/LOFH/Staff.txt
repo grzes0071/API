@@ -1,66 +1,59 @@
-WARNING?true?76561198368787411?SOME IP?Cały czas robi Teamkill'e?Power hotdog?Od Panczov(CIM);
-WARNING?true?76561198151552593?SOME IP?Nadmierne TK , trollowanie ,  i strzelanie bez sensowne które dochodzi po pewnym czasie do tk?Vector?Od Panczov(CIM);
-WARNING?true?76561198844307445?SOME IP?Występujace często toksyczne zachowanie, TK by zobaczyć super reakcję dziecka?Polski Kruk?Od Bright(CIM);
-WARNING?true?76561193877955253?SOME IP?Śmieszek, troll, toxic, przed chwilą wszedł sobie na serwer postrzelił mnie od tak i uciekł gdy się zforclassowałem na specatora by zobaczyć kto mnie postrzelił?Hamster12?Od Bright(CIM);
-WARNING?true?76561198337082249?SOME IP?masa Tk?Zły człowiek?Od Zbeszka(CIM);
-WARNING?true?76561198350015388?SOME IP?Mszczenie się za poprzednie wcielenia (RP), Brak RP (RP), celowy TK, nadużywanie mikrofonu?Mortalek?Od Foxxxx(CIM);
-WARNING?true?76561198871224971?SOME IP?Liczne TK?Tharobus?Od Zbeszka(CIM);
-WARNING?true?76561198128196320?SOME IP?TK, zapraszanie graczy na nightstars, trollowanie by ich tam odstraszyć?kuraprzygoda?Od Bright(CIM);
-WARNING?true?76561198046559648?SOME IP?wychodzenie poza dostępne struktury w grze, celowe wykorzystywanie exploitow/bugów?ZmiennoCieplny?Od Domima(CIM);
-WARNING?true?76561198267672474?SOME IP?Liczne TK, wiele ucieczek przed karą, Ukrainiec?PapiGoio?Od Limokolo(CIM);
-WARNING?true?76561198955011520?SOME IP?No taki troche toxik, grozi degradem jak nie da sie mu ub, wyzywa serwerownie, no takie długie bany poproszę?xKrafciu_?Wydział Wewnętrzny;
-WARNING?true?76561198380765751?SOME IP?Ten typ nie myśli, pinguje od tako, Daj ktoś mu długie wakacje jak coś :) (WW)?Good Lock?Wydział Wewnętrzny;
-WARNING?true?76561198377858844?SOME IP?Notoryczne Wydawanie denerwujących dźwięków, puszczanie muzyki?MaksPlay (O5-XXV)?Wydział Wewnętrzny;
-WARNING?true?76561198203059096?SOME IP?Pyskowanie administracji, wulgarny nick?Moje jajca - Twoja broda?Od Angel (O5-X);
-WARNING?true?76561199002464110?SOME IP?Mozliwy cheat, wchodzil w niedostepne miejsca?iami SCP Bugger?Od quiddiego;
+WARNING?true?76561198368787411@steam?SOME IP?Cały czas robi Teamkill'e?Power hotdog?Od Panczov(CIM);
+WARNING?true?76561198151552593@steam?SOME IP?Nadmierne TK , trollowanie ,  i strzelanie bez sensowne które dochodzi po pewnym czasie do tk?Vector?Od Panczov(CIM);
+WARNING?true?76561198844307445@steam?SOME IP?Występujace często toksyczne zachowanie, TK by zobaczyć super reakcję dziecka?Polski Kruk?Od Bright(CIM);
+WARNING?true?76561193877955253@steam?SOME IP?Śmieszek, troll, toxic, przed chwilą wszedł sobie na serwer postrzelił mnie od tak i uciekł gdy się zforclassowałem na specatora by zobaczyć kto mnie postrzelił?Hamster12?Od Bright(CIM);
+WARNING?true?76561198337082249@steam?SOME IP?masa Tk?Zły człowiek?Od Zbeszka(CIM);
+WARNING?true?76561198350015388@steam?SOME IP?Mszczenie się za poprzednie wcielenia (RP), Brak RP (RP), celowy TK, nadużywanie mikrofonu?Mortalek?Od Foxxxx(CIM);
+WARNING?true?76561198871224971@steam?SOME IP?Liczne TK?Tharobus?Od Zbeszka(CIM);
+WARNING?true?76561198128196320@steam?SOME IP?TK, zapraszanie graczy na nightstars, trollowanie by ich tam odstraszyć?kuraprzygoda?Od Bright(CIM);
+WARNING?true?76561198046559648@steam?SOME IP?wychodzenie poza dostępne struktury w grze, celowe wykorzystywanie exploitow/bugów?ZmiennoCieplny?Od Domima(CIM);
+WARNING?true?76561198267672474@steam?SOME IP?Liczne TK, wiele ucieczek przed karą, Ukrainiec?PapiGoio?Od Limokolo(CIM);
+WARNING?true?76561198955011520@steam?SOME IP?No taki troche toxik, grozi degradem jak nie da sie mu ub, wyzywa serwerownie, no takie długie bany poproszę?xKrafciu_?Wydział Wewnętrzny;
+WARNING?true?76561198380765751@steam?SOME IP?Ten typ nie myśli, pinguje od tako, Daj ktoś mu długie wakacje jak coś :) (WW)?Good Lock?Wydział Wewnętrzny;
+WARNING?true?76561198377858844@steam?SOME IP?Notoryczne Wydawanie denerwujących dźwięków, puszczanie muzyki?MaksPlay (O5-XXV)?Wydział Wewnętrzny;
+WARNING?true?76561198203059096@steam?SOME IP?Pyskowanie administracji, wulgarny nick?Moje jajca - Twoja broda?Od Angel (O5-X);
+WARNING?true?76561199002464110@steam?SOME IP?Mozliwy cheat, wchodzil w niedostepne miejsca?iami SCP Bugger?Od quiddiego;
 
 
 
-FLAG?false?76561198134629649?SOME IP?WW <color=red>:(</color>?Morfigo;
-FLAG?false?76561198123437513?SOME IP?Xsi NAME(<color=red>Komunista</color>)?Xname;
+FLAG?false?76561198134629649@steam?SOME IP?WW <color=red>:(</color>?Morfigo;
+FLAG?false?76561198123437513@steam?SOME IP?Xsi NAME(<color=red>Komunista</color>)?Xname;
 
 
 
 
-FLAG?true?76561198300773973?SOME IP?MISTAKEN STAFF?Sauron;
-FLAG?true?76561198300773973?SOME IP?MISTAKEN OWNER?Sauron;
+FLAG?true?76561198300773973@steam?SOME IP?MISTAKEN STAFF?Sauron;
+FLAG?true?76561198300773973@steam?SOME IP?MISTAKEN OWNER?Sauron;
 
-FLAG?true?76561198134629649?SOME IP?MISTAKEN GAME STAFF?Wydział Wewnętrzny;
-FLAG?true?76561198325706022?SOME IP?MISTAKEN GAME STAFF?Domim;
-FLAG?true?76561198123437513?SOME IP?MISTAKEN GAME STAFF?Xname;
-FLAG?true?76561198159341734?SOME IP?MISTAKEN GAME STAFF?Foxxxx;
-FLAG?true?76561198248053548?SOME IP?MISTAKEN GAME STAFF?Krzysiolit;
-FLAG?true?76561198861875204?SOME IP?MISTAKEN GAME STAFF?Zbeszek;
-FLAG?true?76561198867526505?SOME IP?MISTAKEN GAME STAFF?Haukka10;
-FLAG?true?76561198247908812?SOME IP?MISTAKEN GAME STAFF?Angel;
-FLAG?true?76561197979558812?SOME IP?MISTAKEN GAME STAFF?Morfigo;
-FLAG?true?76561198311383890?SOME IP?MISTAKEN GAME STAFF?Quiddy;
-FLAG?true?76561198875394184?SOME IP?MISTAKEN GAME STAFF?Krajoz;
-FLAG?true?76561198838664504?SOME IP?MISTAKEN GAME STAFF?Kamper;
-FLAG?true?76561198252389360?SOME IP?MISTAKEN GAME STAFF?Limokolo;
-FLAG?true?76561198224995940?SOME IP?MISTAKEN GAME STAFF?Sniv Sniv;
-FLAG?true?76561198134629649?SOME IP?MISTAKEN GAME STAFF?Wydział Wewnętrzny;
-FLAG?true?76561198161262227?SOME IP?MISTAKEN GAME STAFF?Panczo.v;
+FLAG?true?76561198134629649@steam?SOME IP?MISTAKEN GAME STAFF?Wydział Wewnętrzny;
+FLAG?true?76561198325706022@steam?SOME IP?MISTAKEN GAME STAFF?Domim;
+FLAG?true?76561198159341734@steam?SOME IP?MISTAKEN GAME STAFF?Foxxxx;
+FLAG?true?76561198248053548@steam?SOME IP?MISTAKEN GAME STAFF?Krzysiolit;
+FLAG?true?76561198861875204@steam?SOME IP?MISTAKEN GAME STAFF?Zbeszek;
+FLAG?true?76561198867526505@steam?SOME IP?MISTAKEN GAME STAFF?Haukka10;
+FLAG?true?76561198247908812@steam?SOME IP?MISTAKEN GAME STAFF?Angel;
+FLAG?true?76561197979558812@steam?SOME IP?MISTAKEN GAME STAFF?Morfigo;
+FLAG?true?76561198311383890@steam?SOME IP?MISTAKEN GAME STAFF?Quiddy;
+FLAG?true?76561198252389360@steam?SOME IP?MISTAKEN GAME STAFF?Limokolo;
+FLAG?true?76561198224995940@steam?SOME IP?MISTAKEN GAME STAFF?Sniv Sniv;
+FLAG?true?76561198134629649@steam?SOME IP?MISTAKEN GAME STAFF?Wydział Wewnętrzny;
+FLAG?true?76561198161262227@steam?SOME IP?MISTAKEN GAME STAFF?Panczo.v;
 
 
-FLAG?true?76561198117378752?SOME IP?MISTAKEN GAME STAFF?Lion;
-FLAG?true?76561198018791835?SOME IP?MISTAKEN GAME STAFF?Wolffe;
-FLAG?true?76561198403415618?SOME IP?MISTAKEN GAME STAFF?GMT;
-FLAG?true?76561198197879174?SOME IP?MISTAKEN GAME STAFF?Lon3Wol3;
-FLAG?true?76561198192803702?SOME IP?MISTAKEN GAME STAFF?I Existed;
-FLAG?true?76561198254805450?SOME IP?MISTAKEN GAME STAFF?Maksio200063;
-FLAG?true?76561198324799027?SOME IP?MISTAKEN GAME STAFF?Nico-Nii;
-FLAG?true?76561198289238938?SOME IP?MISTAKEN GAME STAFF?Anon/Low Poli;
-FLAG?true?76561198154904165?SOME IP?MISTAKEN GAME STAFF?Sylynans;
-FLAG?true?76561198319404403?SOME IP?MISTAKEN GAME STAFF?TMG;
-FLAG?true?76561198865665657?SOME IP?MISTAKEN GAME STAFF?drk0da;
+FLAG?true?76561198123437513@steam?SOME IP?MISTAKEN GAME STAFF?Xname;
+FLAG?true?76561198018791835@steam?SOME IP?MISTAKEN GAME STAFF?Wolffe;
+FLAG?true?76561198403415618@steam?SOME IP?MISTAKEN GAME STAFF?GMT;
+FLAG?true?76561198197879174@steam?SOME IP?MISTAKEN GAME STAFF?Lon3Wol3;
+FLAG?true?76561198192803702@steam?SOME IP?MISTAKEN GAME STAFF?I Existed;
+FLAG?true?76561198254805450@steam?SOME IP?MISTAKEN GAME STAFF?JustMax;
+FLAG?true?76561198324799027@steam?SOME IP?MISTAKEN GAME STAFF?Nico-Nii;
+FLAG?true?76561198319404403@steam?SOME IP?MISTAKEN GAME STAFF?TMG;
 
-FLAG?true?76561198117378752?SOME IP?MISTAKEN STAFF?Lion;
-FLAG?true?76561198974573128?SOME IP?MISTAKEN STAFF?DeadlyNightshade;
-FLAG?true?76561198143327558?SOME IP?MISTAKEN STAFF?Michael;
-FLAG?true?76561198031597498?SOME IP?MISTAKEN STAFF?Clarion;
-FLAG?true?76561198324799027?SOME IP?MISTAKEN STAFF?Nico-Nii;
-FLAG?true?76561198978299916?SOME IP?MISTAKEN STAFF?Wroncia;
+FLAG?true?76561198117378752@steam?SOME IP?MISTAKEN STAFF?Lion;
+FLAG?true?76561198974573128@steam?SOME IP?MISTAKEN STAFF?DeadlyNightshade;
+FLAG?true?76561198143327558@steam?SOME IP?MISTAKEN STAFF?Michael;
+FLAG?true?76561198031597498@steam?SOME IP?MISTAKEN STAFF?Clarion;
+FLAG?true?76561198324799027@steam?SOME IP?MISTAKEN STAFF?Nico-Nii;
 
 
 PREFIX?false??SOME IP?<color=#0000FF>MISTAKEN</color> SERVER?SERVER;
