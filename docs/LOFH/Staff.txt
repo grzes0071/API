@@ -16,7 +16,7 @@ WARNING?true?76561199002464110@steam?SOME IP?Mozliwy cheat, wchodzil w niedostep
 
 
 
-FLAG?false?76561198134629649@steam?SOME IP?WW <color=red>:(</color>?Morfigo;
+FLAG?false?76561198134629649@steam?SOME IP?WW <color=red>:(</color>?WW;
 FLAG?false?76561198123437513@steam?SOME IP?Xsi NAME(<color=red>Komunista</color>)?Xname;
 
 
