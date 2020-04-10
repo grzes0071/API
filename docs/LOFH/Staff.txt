@@ -13,6 +13,7 @@ WARNING?true?76561198380765751@steam?SOME IP?Ten typ nie myśli, pinguje od tako
 WARNING?true?76561198377858844@steam?SOME IP?Notoryczne Wydawanie denerwujących dźwięków, puszczanie muzyki?MaksPlay (O5-XXV)?Wydział Wewnętrzny;
 WARNING?true?76561198203059096@steam?SOME IP?Pyskowanie administracji, wulgarny nick?Moje jajca - Twoja broda?Od Angel (O5-X);
 WARNING?true?76561199002464110@steam?SOME IP?Mozliwy cheat, wchodzil w niedostepne miejsca?iami SCP Bugger?Od quiddiego;
+WARNING?true?76561199031408593@steam?SOME IP?Toxik, dziecko, fail RP?einfocentera?Od WW
 
 
 
