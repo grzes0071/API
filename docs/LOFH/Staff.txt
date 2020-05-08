@@ -14,9 +14,10 @@ WARNING?true?76561198377858844@steam?SOME IP?Notoryczne Wydawanie denerwujących
 WARNING?true?76561198203059096@steam?SOME IP?Pyskowanie administracji, wulgarny nick?Moje jajca - Twoja broda?Od Angel (O5-X);
 WARNING?true?76561199002464110@steam?SOME IP?Mozliwy cheat, wchodzil w niedostepne miejsca?iami SCP Bugger?Od quiddiego;
 WARNING?true?76561199031408593@steam?SOME IP?Toxik, dziecko, fail RP?einfocentera?Od WW
-WARNING?true?76561198235136128@steam?SOME IP?Toxik, po tym jak go zbanowałem wymuszał na PW dowód za co dostał ban oraz po tym jak go mu dałem stwierdził że jestem "bohaterem" i że banuję graczy który grają na naszych serwerach?Arnwald.363VD/Na Discord: BlackEagle13
-#7493?WW
-
+WARNING?true?76561198235136128@steam?SOME IP?Toxik, po tym jak go zbanowałem wymuszał na PW dowód za co dostał ban oraz po tym jak go mu dałem stwierdził że jestem "bohaterem" i że banuję graczy który grają na naszych serwerach?Arnwald.363VD/Na Discord: BlackEagle13#7493?WW
+WARNING?true?76561198323974411@steam?SOME IP?Cwaniaczek, nie zna regulaminu, liczne jego łamanie?MAKU?Od Limo
+WARNING?true?76561198858369349@steam?SOME IP?wraca ciągłe fail RP, dużo wpisów za TK, brak poprawy?PODAREK ?Od Zbeszka
+WARNING?true?76561198263651892@steam?SOME IP?"CO GO ZGŁASZACIE, DOBRZE ZROBIŁ" napisał tak o reporcie za granat do windy.?Wnuk Piekarza?Od Xnama
 
 
 FLAG?false?76561198134629649@steam?SOME IP?WW <color=red>:(</color>?WW;
