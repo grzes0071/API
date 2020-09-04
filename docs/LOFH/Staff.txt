@@ -18,6 +18,8 @@ WARNING?true?76561198235136128@steam?SOME IP?Toxik, po tym jak go zbanowałem wy
 WARNING?true?76561198323974411@steam?SOME IP?Cwaniaczek, nie zna regulaminu, liczne jego łamanie?MAKU?Od Limo
 WARNING?true?76561198858369349@steam?SOME IP?wraca ciągłe fail RP, dużo wpisów za TK, brak poprawy?PODAREK ?Od Zbeszka
 WARNING?true?76561198263651892@steam?SOME IP?"CO GO ZGŁASZACIE, DOBRZE ZROBIŁ" napisał tak o reporcie za granat do windy.?Wnuk Piekarza?Od Xnama
+WARNING?true?76561198443321785@steam?SOME IP?wielokrotne łamanie regulaminu, cwaniakowanie (następny ban za failRP, TK, itd. na miesiąc)?Xenomorpha?Od Brighta
+WARNING?true?76561199087836532@steam?SOME IP?Teamkillowanie, toxic, fake reporty?kloszard?Od Morfigo
 
 
 FLAG?false?76561198134629649@steam?SOME IP?WW <color=red>:(</color>?WW;
@@ -58,14 +60,7 @@ FLAG?true?76561198528093499@steam?SOME IP?MISTAKEN GAME STAFF?Sezamek;
 
 FLAG?true?76561198403415618@steam?SOME IP?MISTAKEN GAME STAFF?GMT;
 FLAG?true?76561198192803702@steam?SOME IP?MISTAKEN GAME STAFF?I Existed;
-FLAG?true?76561198324799027@steam?SOME IP?MISTAKEN GAME STAFF?Nico-Nii;
 FLAG?true?76561198319404403@steam?SOME IP?MISTAKEN GAME STAFF?TMG;
 
-FLAG?true?76561198117378752@steam?SOME IP?MISTAKEN STAFF?Lion;
 FLAG?true?76561198143327558@steam?SOME IP?MISTAKEN STAFF?Michael;
 FLAG?true?76561198031597498@steam?SOME IP?MISTAKEN STAFF?Clarion;
-FLAG?true?76561198324799027@steam?SOME IP?MISTAKEN STAFF?Nico-Nii;
-
-
-PREFIX?false??SOME IP?<color=#0000FF>MISTAKEN</color> SERVER?SERVER;
-FLAG?false??SOME IP?<color=#0000FF><size=115><b>MISTAKEN SERVER</b></size></color>?SERVER;
