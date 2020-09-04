@@ -20,6 +20,11 @@ WARNING?true?76561198858369349@steam?SOME IP?wraca ciągłe fail RP, dużo wpis�
 WARNING?true?76561198263651892@steam?SOME IP?"CO GO ZGŁASZACIE, DOBRZE ZROBIŁ" napisał tak o reporcie za granat do windy.?Wnuk Piekarza?Od Xnama
 WARNING?true?76561198443321785@steam?SOME IP?wielokrotne łamanie regulaminu, cwaniakowanie (następny ban za failRP, TK, itd. na miesiąc)?Xenomorpha?Od Brighta
 WARNING?true?76561199087836532@steam?SOME IP?Teamkillowanie, toxic, fake reporty?kloszard?Od Morfigo
+WARNING?true?76561199050847483@steam?SOME IP?notoryczny teamkilling (wszystkie jego wpisy są za tk)?gówniak30000?Od Brighta
+WARNING?true?76561198934836769@steam?SOME IP?Next ma dostać na minimum 14d z pozdrowieniami?ReDem0n [SSCG]?Od Zbeszka
+WARNING?true?76561198334671551@steam?SOME IP?nagminne puszczanie bindów, następny ban za bindy na minimum 2 tygodnie :)?PO (wcześniej M.T.F)?Od Brighta
+WARNING?true?76561198317325451@steam?SOME IP?Powód: Notoryczny teamkilling, wraca po banach i robi dokładnie to samo (następny ban minimum 3 tygodnie)?Kucyk?Od Brighta
+
 
 
 FLAG?false?76561198134629649@steam?SOME IP?WW <color=red>:(</color>?WW;
