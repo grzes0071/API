@@ -1,32 +1,3 @@
-WARNING?true?76561198368787411@steam?SOME IP?Cały czas robi Teamkill'e?Power hotdog?Od Panczov(CIM);
-WARNING?true?76561198151552593@steam?SOME IP?Nadmierne TK , trollowanie ,  i strzelanie bez sensowne które dochodzi po pewnym czasie do tk?Vector?Od Panczov(CIM);
-WARNING?true?76561198844307445@steam?SOME IP?Występujace często toksyczne zachowanie, TK by zobaczyć super reakcję dziecka?Polski Kruk?Od Bright(CIM);
-WARNING?true?76561193877955253@steam?SOME IP?Śmieszek, troll, toxic, przed chwilą wszedł sobie na serwer postrzelił mnie od tak i uciekł gdy się zforclassowałem na specatora by zobaczyć kto mnie postrzelił?Hamster12?Od Bright(CIM);
-WARNING?true?76561198337082249@steam?SOME IP?masa Tk?Zły człowiek?Od Zbeszka(CIM);
-WARNING?true?76561198350015388@steam?SOME IP?Mszczenie się za poprzednie wcielenia (RP), Brak RP (RP), celowy TK, nadużywanie mikrofonu?Mortalek?Od Foxxxx(CIM);
-WARNING?true?76561198871224971@steam?SOME IP?Liczne TK?Tharobus?Od Zbeszka(CIM);
-WARNING?true?76561198128196320@steam?SOME IP?TK, zapraszanie graczy na nightstars, trollowanie by ich tam odstraszyć?kuraprzygoda?Od Bright(CIM);
-WARNING?true?76561198046559648@steam?SOME IP?wychodzenie poza dostępne struktury w grze, celowe wykorzystywanie exploitow/bugów?ZmiennoCieplny?Od Domima(CIM);
-WARNING?true?76561198267672474@steam?SOME IP?Liczne TK, wiele ucieczek przed karą, Ukrainiec?PapiGoio?Od Limokolo(CIM);
-WARNING?true?76561198955011520@steam?SOME IP?No taki troche toxik, grozi degradem jak nie da sie mu ub, wyzywa serwerownie, no takie długie bany poproszę?xKrafciu_?Wydział Wewnętrzny;
-WARNING?true?76561198380765751@steam?SOME IP?Ten typ nie myśli, pinguje od tako, Daj ktoś mu długie wakacje jak coś :) (WW)?Good Lock?Wydział Wewnętrzny;
-WARNING?true?76561198377858844@steam?SOME IP?Notoryczne Wydawanie denerwujących dźwięków, puszczanie muzyki?MaksPlay (O5-XXV)?Wydział Wewnętrzny;
-WARNING?true?76561198203059096@steam?SOME IP?Pyskowanie administracji, wulgarny nick?Moje jajca - Twoja broda?Od Angel (O5-X);
-WARNING?true?76561199002464110@steam?SOME IP?Mozliwy cheat, wchodzil w niedostepne miejsca?iami SCP Bugger?Od quiddiego;
-WARNING?true?76561199031408593@steam?SOME IP?Toxik, dziecko, fail RP?einfocentera?Od WW
-WARNING?true?76561198235136128@steam?SOME IP?Toxik, po tym jak go zbanowałem wymuszał na PW dowód za co dostał ban oraz po tym jak go mu dałem stwierdził że jestem "bohaterem" i że banuję graczy który grają na naszych serwerach?Arnwald.363VD/Na Discord: BlackEagle13#7493?WW
-WARNING?true?76561198323974411@steam?SOME IP?Cwaniaczek, nie zna regulaminu, liczne jego łamanie?MAKU?Od Limo
-WARNING?true?76561198858369349@steam?SOME IP?wraca ciągłe fail RP, dużo wpisów za TK, brak poprawy?PODAREK ?Od Zbeszka
-WARNING?true?76561198263651892@steam?SOME IP?"CO GO ZGŁASZACIE, DOBRZE ZROBIŁ" napisał tak o reporcie za granat do windy.?Wnuk Piekarza?Od Xnama
-WARNING?true?76561198443321785@steam?SOME IP?wielokrotne łamanie regulaminu, cwaniakowanie (następny ban za failRP, TK, itd. na miesiąc)?Xenomorpha?Od Brighta
-WARNING?true?76561199087836532@steam?SOME IP?Teamkillowanie, toxic, fake reporty?kloszard?Od Morfigo
-WARNING?true?76561199050847483@steam?SOME IP?notoryczny teamkilling (wszystkie jego wpisy są za tk)?gówniak30000?Od Brighta
-WARNING?true?76561198934836769@steam?SOME IP?Next ma dostać na minimum 14d z pozdrowieniami?ReDem0n [SSCG]?Od Zbeszka
-WARNING?true?76561198334671551@steam?SOME IP?nagminne puszczanie bindów, następny ban za bindy na minimum 2 tygodnie :)?PO (wcześniej M.T.F)?Od Brighta
-WARNING?true?76561198317325451@steam?SOME IP?Powód: Notoryczny teamkilling, wraca po banach i robi dokładnie to samo (następny ban minimum 3 tygodnie)?Kucyk?Od Brighta
-
-
-
 FLAG?false?76561198134629649@steam?SOME IP?WW <color=red>:(</color>?WW;
 FLAG?false?76561198123437513@steam?SOME IP?Xsi NAME(<color=red>Komunista</color>)?Xname;
 
